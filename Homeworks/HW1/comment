@@ -1,0 +1,13 @@
+TASK 1
+A tree is a tree, nothing special in this task. Each node is a tree as well, even the leaves. A leaf is a tree with no subtrees.
+TASK 2
+Left the first row (rating) because the task did not specify its' redundancy for fture tasks. However it seems to be unnecessary because we use 'ok' column as a label
+
+TASK 3
+ai and theory show good results, but as we will se in the next task it is still worse than Decision tree. We can see, nevertheless, that some features can be representative of the overall trend to a substantial extent
+TASK 4
+Sadly that is all I have managed to do by February 3rd.
+As we can see, accuracy is 90% for the Decision Tree. Perhaps because I am testing on the training data :)
+It is better than the best representatives of single feature classifiers. However, as I said in the comment to task3, the difference is not astonishingly high. I guess in practice there might be some features that have such a high "weight", such as 'ai' in this dataset
+The real value, as I see it, comes from the fact that coming the the correct answer is an easier deal, because we do not have to ask all the questions - we only ask some of them
+ 

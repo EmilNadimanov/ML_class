@@ -1,4 +1,0 @@
-Sadly that is all I have managed to do by February 3rd.
-As we can see, accuracy is 90% for the Decision Tree. Perhaps because I am testing on the training data :)
-It is better than the best representatives of single feature classifiers. However, as I said in the comment to task3, the difference is not astonishingly high. I guess in practice there might be some features that have such a high "weight", such as 'ai' in this dataset
- 
